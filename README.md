@@ -40,7 +40,7 @@
 
 - **Frameworks**:
 
-    ![React](https://img.shields.io/badge/-ReactJs-61DAFB?)
+    ![React]([https://img.shields.io/badge/-ReactJs-61DAFB?](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white))
     
 <br>
 
