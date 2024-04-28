@@ -8,7 +8,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Front-end developer and going to programming school
 - I want to success the goal that i have in my mind, The success want me
 - Currently learning Web Development by Self
 - working on my portfolio 
