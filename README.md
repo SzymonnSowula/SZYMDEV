@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sowulaszymon" alt="sowulaszymon" /></a> </p>
 
-- 🔭 I’m currently working on **RzućTo**
+- 🔭 I’m currently working on **Learning**
 
 - 🌱 I’m currently learning **React**
 
