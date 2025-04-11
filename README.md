@@ -1,4 +1,4 @@
-# Hi there, I'm SZYMDEV 👋
+# Hi there, I'm Szymon Sowula 👋
 
 ## About Me
 I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies. I love solving problems and building efficient and scalable solutions.
