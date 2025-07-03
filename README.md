@@ -21,7 +21,7 @@ I'm a passionate developer with a keen interest in web development, open-source 
 
 ## 📫 How to reach me
 - **Email:** kontaktbizn@gmail.com
-  portfolio- https://szymonsowula.netlify.app/
+  portfolio-
 
 ## 💬 Let's Connect!
 Feel free to reach out if you want to collaborate on any project or just want to connect.
